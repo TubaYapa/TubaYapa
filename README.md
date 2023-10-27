@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi! I'm Tuba
 🌍  I'm based in London<br>✉️  You can contact me at tubayapa@gmail.com<br>🧠  I'm learning HTML, CSS, HTML5, CSS3, Bootstrap, JavaScript, SCSS, Github, Trello/Jira, React, Redux, TypeScript, Unit Test, MVC, MVVM, Jenkins, AWS, Firabase, API<br>🤝  I'm open to collaborating on interesting projects<br>⚡  I'm a mother of 3 cats! 🐱
 
 
