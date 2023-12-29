@@ -1,5 +1,5 @@
 # 💫 Hi! I'm Tuba
-🌍  I'm based in London<br>✉️  You can contact me at tubayapa@gmail.com<br>🧠  I'm learning HTML, CSS, HTML5, CSS3, Bootstrap, JavaScript, SCSS, React, Redux, TypeScript, API<br>🤝  I'm open to collaborating on interesting projects<br>⚡  I'm a mother of 3 cats! 🐱 <br>
+🌍  I'm based in London<br>✉️  You can contact me at tubayapa@gmail.com<br>🧠  I'm learning  HTML5, CSS3, Bootstrap, JavaScript, SCSS, React, TypeScript<br>🤝  I'm open to collaborating on interesting projects<br>⚡  I'm a mother of 3 cats! 🐱 <br>
 
 🎯 I believe I can Google the answer to anything.
 
